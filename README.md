@@ -1,2 +1,3 @@
-# test
-测试使用github
+github is a good tool
+
+hello world
